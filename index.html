@@ -7,8 +7,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Task Manager</h1>
-    <p>Versión inicial – pendiente de implementación</p>
+    <div class="container">
+        <h1>📝 Task Manager</h1>
+
+        <div class="input-group">
+            <input type="text" id="taskInput" placeholder="Escribe una tarea...">
+            <button id="addBtn">Agregar</button>
+        </div>
+
+        <p id="counter">Tareas pendientes: 0</p>
+
+        <ul id="taskList"></ul>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
