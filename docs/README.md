@@ -12,5 +12,5 @@ Aplicación web sencilla para gestionar tareas, desarrollada como parte del labo
 
 ## Equipo
 
-- Jesus Zaid – Product Owner / Developer / Tester
-- Daniel Castillo – Scrum Master / Developer / QA
+- Jesus Zaid – Product Owner / Developer
+- Daniel Castillo – Scrum Master / Developer / QA / Tester
